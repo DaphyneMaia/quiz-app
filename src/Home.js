@@ -13,18 +13,18 @@ function App() {
             <h2><b>So you think you know ReactJS?</b> Take the 10 quizzes below to test your knowledge.</h2>
             <div className="two-cols">
             <div>
-            <p><b>1</b> - &nbsp;Quiz topic name: <Link to="/quiz-questions/1">Start</Link> </p>
-            <p><b>2</b> - &nbsp;Quiz topic name: <Link to="/quiz-questions/2">Start</Link> </p>
-            <p><b>3</b> - &nbsp;Quiz topic name: <Link to="/quiz-questions/1">Start</Link> </p>
-            <p><b>4</b> - &nbsp;Quiz topic name: <Link to="/quiz-questions/2">Start</Link> </p>
-            <p><b>5</b> - &nbsp;Quiz topic name: <Link to="/quiz-questions/1">Start</Link> </p>
+            <p><b>1</b> - &nbsp;useState hook in React <Link to="/quiz-questions/1">Start</Link> </p>
+            <p><b>2</b> - &nbsp;Import a function <Link to="/quiz-questions/2">Start</Link> </p>
+            <p><b>3</b> - &nbsp;Map() method JavaScript <Link to="/quiz-questions/3">Start</Link> </p>
+            <p><b>4</b> - &nbsp;Destructure the name property <Link to="/quiz-questions/4">Start</Link> </p>
+            <p><b>5</b> - &nbsp;Ternary operator<Link to="/quiz-questions/5">Start</Link> </p>
             </div>
             <div>
-            <p><b>6</b> - &nbsp;Quiz topic name: <Link to="/quiz-questions/2">Start</Link> </p>
-            <p><b>7</b> - &nbsp;Quiz topic name: <Link to="/quiz-questions/1">Start</Link> </p>
-            <p><b>8</b> - &nbsp;Quiz topic name: <Link to="/quiz-questions/2">Start</Link> </p>
-            <p><b>9</b> - &nbsp;Quiz topic name: <Link to="/quiz-questions/2">Start</Link> </p>
-            <p><b>10</b> - &nbsp;Quiz topic name: <Link to="/quiz-questions/2">Start</Link> </p>
+            <p><b>6</b> - &nbsp;Short-circuiting <Link to="/quiz-questions/6">Start</Link> </p>
+            <p><b>7</b> - &nbsp;UseEffect hook<Link to="/quiz-questions/7">Start</Link> </p>
+            <p><b>8</b> - &nbsp;State<Link to="/quiz-questions/8">Start</Link> </p>
+            <p><b>9</b> - &nbsp;Key prop in React<Link to="/quiz-questions/9">Start</Link> </p>
+            <p><b>10</b> - &nbsp;render content using a ternary operator<Link to="/quiz-questions/10">Start</Link> </p>
             </div>
             </div>
 
